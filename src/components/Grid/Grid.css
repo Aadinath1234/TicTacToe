@@ -1,0 +1,12 @@
+.grid{
+    padding: 17px 312px;
+    margin: 22px 172px;
+    height: 624px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
